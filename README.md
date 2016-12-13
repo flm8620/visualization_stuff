@@ -2,7 +2,7 @@
 some animation I made for visualize math &amp; mecanics
 
 angrybird-like game
-
+Link : https://github.com/flm8620/RigidBody
 ![angrybird-like game](angrybird.gif)
 
 euler's equation
